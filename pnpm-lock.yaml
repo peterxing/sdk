@@ -489,8 +489,8 @@ importers:
         specifier: workspace:*
         version: link:../utils
       google-auth-library:
-        specifier: ^9.15.1
-        version: 9.15.1
+        specifier: ^10.6.2
+        version: 10.6.2
       googleapis:
         specifier: ^144.0.0
         version: 144.0.0
